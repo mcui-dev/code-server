@@ -22,6 +22,45 @@ Code v99.99.999
 
 ## Unreleased
 
+## [4.89.1](https://github.com/coder/code-server/releases/tag/v4.89.1) - 2024-04-14
+
+Code v1.89.1
+
+## Changed
+
+- Updated to Code 1.89.1.
+
+## [4.89.0](https://github.com/coder/code-server/releases/tag/v4.89.0) - 2024-04-08
+
+Code v1.89.0
+
+## Changed
+
+- Updated to Code 1.89.0.
+
+## [4.23.1](https://github.com/coder/code-server/releases/tag/v4.23.1) - 2024-04-15
+
+Code v1.88.1
+
+## Changed
+
+- Updated to Code 1.88.1.
+
+## [4.23.0](https://github.com/coder/code-server/releases/tag/v4.23.0) - 2024-04-08
+
+Code v1.88.0
+
+## Changed
+
+- Updated to Code 1.88.0.
+- Updated Node to 18.18.2.
+
+## Fixed
+
+- Fix masking the exit code when failing to install extensions on the command
+  line outside the integrated terminal. Installing extensions inside the
+  integrated terminal still masks the exit code and is an upstream bug.
+
 ## [4.22.1](https://github.com/coder/code-server/releases/tag/v4.22.1) - 2024-03-14
 
 Code v1.87.2
